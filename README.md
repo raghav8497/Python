@@ -1,2 +1,1 @@
-# Python
-Micro project
+PROJECT DOCUMENTATION
